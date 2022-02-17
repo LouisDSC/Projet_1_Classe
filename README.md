@@ -1,5 +1,4 @@
 # DabaliExpress
-[DabaliExpress/IDA2-Webdesign-images/DE.png]
 
 Get your users to know your web app with ease to found their food
 
