@@ -1,4 +1,5 @@
 # DabaliExpress
+![DabaliExpress/IDA2-Webdesign-images/DE.png]
 
 Get your users to know your web app with ease to found their food
 
@@ -7,8 +8,8 @@ Get your users to know your web app with ease to found their food
 Onboarding is a great way to introduce your web app to newcomers, to help them quickly adapt to the new
 conditions so that they can get the most out of your app
 
-![Font Icon](https://fontawesome.com/start)
-[![Portfolio](https://louis-japheth-kouassi.web.app/)](https://louis-japheth-kouassi.web.app/)
+[Font Icon](https://fontawesome.com/start)
+[![Portfolio](https://louis-japheth-kouassi.web.app/static/icons/android-icon-192x192.png/)](https://louis-japheth-kouassi.web.app/)
 
 
 ## Icons
@@ -24,8 +25,7 @@ This is somehow what you can see in my web app using icons :)
 Add the following to your html code.
 First, import the following files:
 
-```hmtl
-code:
+```html
   <div class="search">
     <i class="fas fa-search"></i>
   </div>
@@ -75,12 +75,4 @@ Second, import the following files
 }
 ```
 
-Then, create a list of screens each one with the `IntroSreen` class:
-
-```
-Then your will change the color of your icons easily
-```
-
 Now enjoy!
-
-**Refer to [example folder](example/README.md) and the source code for more information.**
